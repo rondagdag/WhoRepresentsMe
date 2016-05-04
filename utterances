@@ -1,0 +1,21 @@
+RepresentativeIntent Who is my representative
+RepresentativeIntent Who are my representatives
+RepresentativeIntent Name my representatives
+RepresentativeIntent Name my representative
+RepresentativeIntent Who represents me in the U.S. Congress
+RepresentativeIntent Who represents me in Congress
+RepresentativeIntent Who is the representative for {Location}
+RepresentativeIntent Who are the representatives for {Location}
+
+SenatorIntent Who is my senator
+SenatorIntent Who are my senators
+SenatorIntent Name my senators
+SenatorIntent Name my senator
+SenatorIntent Who represents me in the U.S. Senate
+SenatorIntent Who represents me in Senate
+SenatorIntent Who is the senator for {Location}
+SenatorIntent Who are the senators for {Location}
+
+RepresentMeIntent Who represents me
+MyZipCodeIsIntent my zip code is {Location}
+MyZipCodeIsIntent zip is {Location}

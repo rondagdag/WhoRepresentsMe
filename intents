@@ -1,0 +1,43 @@
+{
+  "intents": [
+    {
+      "intent": "MyZipCodeIsIntent",
+      "slots": [
+        {
+          "name": "Location",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "RepresentativeIntent",
+      "slots": [
+        {
+          "name": "Location",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "RepresentMeIntent",
+      "slots": [
+        {
+          "name": "Location",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "SenatorIntent",
+      "slots": [
+        {
+          "name": "Location",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
